@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1547393435 source:c:\users\petrakos\desktop\cw\studentmanager\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HelpingFunctions.h"
+
+1547150081 c:\users\petrakos\desktop\cw\studentmanager\hashops.h
+
+1547393382 c:\users\petrakos\desktop\cw\studentmanager\helpingfunctions.h
+
